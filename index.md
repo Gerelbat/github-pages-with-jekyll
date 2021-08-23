@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Process Improvement Details Page"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Process list and details ...
